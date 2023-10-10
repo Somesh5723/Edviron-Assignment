@@ -1,0 +1,41 @@
+{
+  "name": "edviron-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "description": "Edviron Dashboard is a fully functional Dashboard for admin user or organzation it is fully responsive design we can use this Dashboard with any kind of devices like mobile , tab , laptop , desktop.   This app powerd with **REACT JS** as Frontend and **Tailwind CSS** For styling the app",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC"
+}
